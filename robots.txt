@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://authentique28.github.io/sitemap.xml
+Sitemap: https://maisonlaugeray.fr/sitemap.xml
